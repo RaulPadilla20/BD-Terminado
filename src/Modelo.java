@@ -18,6 +18,7 @@ public class Modelo {
     private PreparedStatement modificarEmpleadoActual;
 
     // Atributos para manejar los datos de la tabla
+
     private ResultSet RSEmpleados;
     private int empleadoActual;
     private int totalEmpleados;
